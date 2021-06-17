@@ -16,14 +16,8 @@ function App() {
         <button className="note" onClick={() => playNote("C")}>
           C
         </button>
-        <button className="note" onClick={() => playNote("C#")}>
-          C#
-        </button>
         <button className="note" onClick={() => playNote("D")}>
           D
-        </button>
-        <button className="note" onClick={() => playNote("D#")}>
-          D#
         </button>
         <button className="note" onClick={() => playNote("E")}>
           E
@@ -31,20 +25,11 @@ function App() {
         <button className="note" onClick={() => playNote("F")}>
           F
         </button>
-        <button className="note" onClick={() => playNote("F#")}>
-          F#
-        </button>
         <button className="note" onClick={() => playNote("G")}>
           G
         </button>
-        <button className="note" onClick={() => playNote("G#")}>
-          G#
-        </button>
         <button className="note" onClick={() => playNote("A")}>
           A
-        </button>
-        <button className="note" onClick={() => playNote("A#")}>
-          A#
         </button>
         <button className="note" onClick={() => playNote("B")}>
           B
